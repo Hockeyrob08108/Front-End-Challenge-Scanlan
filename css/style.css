@@ -1,0 +1,107 @@
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFFFFF;
+  font-family: "SF Pro Text", sans-serif;
+  font-size: 10px;
+  margin: 0px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 375px;
+  background-color: #F3F4F4;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em
+}
+
+h4 {
+  font-size: 1.2em
+}
+
+.nav0 {
+  width: 375px;
+  background-color: #F7F7F7;
+  text-align: center;
+  color: #000000;
+  padding: 9% 0 3% 0;
+  font-weight: bold;
+  display:inline-block;
+}
+
+.nav1 {
+  background-color: #317C9F;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 6% 0;
+  font-weight: bold;
+}
+
+.nav2 {
+  background-color: #FFFFFF;
+}
+
+.alignleft {
+	float: left;
+  padding: 3.8% 0 1% 5%;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.alignright {
+	float: right;
+  padding: 3.8% 5% 1% 0;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.alignleft1 {
+	float: left;
+  padding: 1% 0 1% 5%;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.alignright1 {
+	float: right;
+  padding: 1% 5% 1% 0;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+
+.location {
+
+}
+
+.content1 {
+  display: inline-block;
+  padding: 1% 0 1% 5%;
+  width: 375px;
+  font-weight: bold;
+}
+
+.content2 {
+  display: inline-block;
+  float: right;
+  padding: 0 5% 0 0;
+  font-weight: bold;
+}
+
+.content3 {
+  font-weight: lighter;
+  padding: 1% 0 1% 5%;
+}
