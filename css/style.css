@@ -42,11 +42,16 @@ h4 {
   display:inline-block;
 }
 
-.alignleft0 {
-	float: left;
-  padding: 3.8% 0 1% 5%;
-  font-size: 1.8em;
-  font-weight: bold;
+.arrow-left {
+  float: left;
+  padding-top: 3.48%;
+  padding-left: 5%;
+}
+
+.arrow-right {
+  float: right;
+  padding-top: 3.46%;
+  padding-right: 5%;
 }
 
 .alignright0 {
