@@ -32,7 +32,7 @@ h4 {
   font-size: 1.2em
 }
 
-.nav0 {
+nav {
   width: 375px;
   background-color: #F7F7F7;
   text-align: center;
@@ -61,7 +61,7 @@ h4 {
   font-weight: bold;
 }
 
-.nav1 {
+h1 {
   background-color: #317C9F;
   text-align: center;
   color: #FFFFFF;
@@ -101,26 +101,14 @@ h4 {
   font-weight: bold;
 }
 
-
 .location {
-
+  padding: 3% 0;
+  border-bottom: 1px solid darkgrey;
+  clear:both;
 }
 
-.content1 {
-  display: inline-block;
-  padding: 1% 0 1% 5%;
-  width: 375px;
-  font-weight: bold;
-}
-
-.content2 {
-  display: inline-block;
-  float: right;
-  padding: 0 5% 0 0;
-  font-weight: bold;
-}
-
-.content3 {
+h4 {
   font-weight: lighter;
   padding: 1% 0 1% 5%;
+  clear:both;
 }
